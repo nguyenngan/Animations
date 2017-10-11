@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/fade_in_action"
+            android:title="@string/fade_in" />
+        <item
+            android:id="@+id/fade_out_action"
+            android:title="@string/face_out" />
+        <item
+            android:id="@+id/cross_fade_action"
+            android:title="@string/cross_fade" />
+        <item
+            android:id="@+id/blink_action"
+            android:title="@string/blink" />
+        <item
+            android:id="@+id/zoom_in_action"
+            android:title="@string/zoom_in" />
+        <item
+            android:id="@+id/zoom_out_action"
+            android:title="@string/zoom_out" />
+        <item
+            android:id="@+id/rotate_action"
+            android:title="@string/rotate" />
+        <item
+            android:id="@+id/move_action"
+            android:title="@string/move" />
+        <item
+            android:id="@+id/slide_up_action"
+            android:title="@string/slide_up" />
+        <item
+            android:id="@+id/slide_down_action"
+            android:title="@string/slide_down" />
+        <item
+            android:id="@+id/bounce_action"
+            android:title="@string/bounce" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/share_action"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/send_action"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

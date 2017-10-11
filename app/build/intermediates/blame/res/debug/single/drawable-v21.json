@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/Users/ndn/Github/Animations/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/ndn/.android/build-cache/a076b8f50da7d70d9a1eeafc525cd2d67e4a1ec0/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/ndn/Github/Animations/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/ndn/.android/build-cache/a076b8f50da7d70d9a1eeafc525cd2d67e4a1ec0/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/Users/ndn/Github/Animations/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/ndn/.android/build-cache/b76a0aaf2ff56f8bf16d55ea9011f6caa3e5c53a/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/ndn/.android/build-cache/a076b8f50da7d70d9a1eeafc525cd2d67e4a1ec0/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/ndn/.android/build-cache/b76a0aaf2ff56f8bf16d55ea9011f6caa3e5c53a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/ndn/.android/build-cache/a076b8f50da7d70d9a1eeafc525cd2d67e4a1ec0/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/Users/ndn/Github/Animations/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/ndn/.android/build-cache/b76a0aaf2ff56f8bf16d55ea9011f6caa3e5c53a/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/ndn/.android/build-cache/b76a0aaf2ff56f8bf16d55ea9011f6caa3e5c53a/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/Users/ndn/Github/Animations/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/ndn/Github/Animations/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/Users/ndn/Github/Animations/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    }
+]

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/Github/Animations/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0045ecdc47f2b86346af589dbb976227943438b4">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_378d0d6ff75cffdbdb90c25cad136dfc8491f982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_800441923c56958bf2bef28a86a0ce7d748012a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/b76a0aaf2ff56f8bf16d55ea9011f6caa3e5c53a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_586867afc965b2afa7fa5c94f01d0264dc7afda5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/6134b3c261a1ea201a3aa4811855f2c20217ffef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eacd18bfc7d3c7b6694aaba860f67bfcc6fb2ee3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/dd1fbc35e61a59fb6e6abdbf9100d8a9a3c032b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5db7c1528f1d698258e32c02c595092a0a318274/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/7e20e9ba5baa5f4f0ae0a2d05b0cae7239db311d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c0214c2db454704e9d58227b158e4a09e14c6c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/290112b75f2aa4128827371eb0bf3128577397ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c74884e23f1ade2b79ac8c9534d1890c87d26807/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/8184562bce0a8450147230469723a422d25aaf1f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a005e6238b4c85a0927159a43493befeaa5a0d21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/a3db8af5e081711bbe99eb6977171f632015c691/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d3b921e88af06fc18018c3471268a1243add9db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/6d0e1c6281e73d4a95e0f52c0fe84c89c0e0e5f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40161efe3198f16e476126450f413498903e5bd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/6f1a5b342b4be82356adb39b499649aa733f4999/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14bf078964f71464f06bbe3874e62c637f4ce7e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/5f1956342d64910fddfa04e82fb46f90ef5a2137/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f3bbdacfcb3554efaf77932049635512ca84e6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/17c1f2ad5435ef80d0b2769191d73b322d0f4056/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fde6cde8fd86f7ec8432b831d48c9b24265a493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/Github/Animations/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b764afdf08c2746fb81751ce8ce64594fe858908/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/8b4931662878c3c3f3a740d404c78dc3bfed6a3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dab0748dffa7e42f2b34ecca27b1ed440475275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_17ff051e8f109f1d9de5068f0613b1847e1149eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndn/.android/build-cache/a076b8f50da7d70d9a1eeafc525cd2d67e4a1ec0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_216238df47dc91dcc956579b9a9cd28201bacd32/classes.dex" />
+    </item>
+
+</items>

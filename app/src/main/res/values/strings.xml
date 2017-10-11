@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Animations</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="fade_in">Fade In</string>
+    <string name="face_out">Face Out</string>
+    <string name="cross_fade">Cross Fade</string>
+    <string name="communicate">Communicate</string>
+    <string name="blink">Blink</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="rotate">Rotate</string>
+    <string name="move">Move</string>
+    <string name="slide_up">Slide Up</string>
+    <string name="slide_down">Slide Down</string>
+    <string name="bounce">Bounce</string>
+    <string name="sequential_animation">Sequential Animation</string>
+    <string name="refresh">Refresh</string>
+</resources>

@@ -1,0 +1,7 @@
+#Wed Oct 11 14:08:46 ICT 2017
+base.0=/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_378d0d6ff75cffdbdb90c25cad136dfc8491f982
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b764afdf08c2746fb81751ce8ce64594fe858908/classes.dex
+base.1=/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b764afdf08c2746fb81751ce8ce64594fe858908
+file.0=/Users/ndn/Github/Animations/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_378d0d6ff75cffdbdb90c25cad136dfc8491f982/classes.dex
